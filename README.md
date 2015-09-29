@@ -1,6 +1,5 @@
 # Introduction to APIs
 
-Sam Maurer  
 Guest presentation for UC Berkeley CP 255 - Urban Informatics  
 October 7, 2015
 
@@ -40,9 +39,3 @@ This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programmin
 	* API queries in an IPython notebook
 	* focus on Twitter, but examples of others too 
 
-
-#### After-class exercise
-
-* Use an API to download some data that you're interested in
-* Visualize the data as a map in CartoDB or GIS, or as a chart in Excel
-* Write up and submit a brief (~1 page) blog post or report including: (1) how you got the data, (2) an image of a visualization, and (3) what you learned from the data

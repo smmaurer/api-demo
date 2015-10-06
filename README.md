@@ -17,7 +17,7 @@ This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programmin
 
 3. **Make sure `keys.py` is in the same directory as the notebook**  
      
-   `keys.py` (provided separately) contains demo authentication keys for the Twitter APIs. For folks not taking the class, you can edit the `keys-example.py` file, following the instructions in the next step to obtain your own credentials.  
+   `keys.py` (provided separately) contains demo authentication keys for the Twitter APIs. For folks not taking the class, you can edit the `keys-example.py` file, following the instructions below to obtain your own credentials.  
 
 4. **Look over some of the resources that companies and public agencies put together for third-party software developers, for example:**
 

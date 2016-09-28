@@ -17,7 +17,7 @@ This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programmin
 
 3. **Make sure `keys.py` is in the same directory as the notebook**  
      
-   `keys.py` (provided separately) contains demo authentication keys for the Twitter APIs. For folks not taking the class, you can sign up for your own API credentials and paste them into the `keys-example.py` file.  
+   `keys.py` (provided separately) contains demo authentication keys for the Twitter APIs. If you stumbled across this demo independently, you can sign up for your own API credentials and paste them into the `keys-example.py` file.  
 
 4. **OPTIONAL: Sign up for your own Twitter API credentials (5 minutes)**  
      
@@ -25,7 +25,7 @@ This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programmin
      
    * Log into Twitter or create an account: http://twitter.com  
      
-   * Register a new app development project: https://dev.twitter.com/apps/new  
+   * Register a new developer project: https://dev.twitter.com/apps/new  
 
      (The form is geared toward people making smartphone apps or web apps, but you still have to fill it out... You can call the app an in-class exercise and give the URL of these demo instructions, for example)  
      

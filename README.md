@@ -1,12 +1,12 @@
 # Introduction to APIs
 
-Guest lecture for UC Berkeley [CP 255](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics  
+Guest lecture for UC Berkeley [CP255 Urban Informatics](https://github.com/waddell/urban-informatics-and-visualization)  
 October 3, 2016 (revised from 2015)
 
 This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programming_interface), which are code-based interfaces that allow outside developers to interact with a piece of software. We'll focus primarily on data-access APIs that operate over the web. In class we'll use Python to connect to a variety of APIs, from earthquake feeds and geocoders to public social media posts.
 
 
-#### Before class
+### Before class
 
 1. **Save the notebook file to your computer**
 

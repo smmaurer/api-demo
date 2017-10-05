@@ -9,7 +9,7 @@ This demo introduces [APIs](https://en.wikipedia.org/wiki/Application_programmin
 
 ### Before class
 
-1. **Save the notebook file to your computer**
+1. **Save the demo files to your computer**
 
 2. **From the command line, install this Python package for connecting to Twitter APIs:**  
    `pip install TwitterAPI`  
